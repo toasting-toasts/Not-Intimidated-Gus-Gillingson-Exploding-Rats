@@ -1,0 +1,19 @@
+{
+  "name": "not-intimidated-gus-gillingson-exploding-rats",
+  "version": "1.0.0",
+  "description": "u",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toasting-toasts/Not-Intimidated-Gus-Gillingson-Exploding-Rats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toasting-toasts/Not-Intimidated-Gus-Gillingson-Exploding-Rats/issues"
+  },
+  "homepage": "https://github.com/toasting-toasts/Not-Intimidated-Gus-Gillingson-Exploding-Rats#readme"
+}
